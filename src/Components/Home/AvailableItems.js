@@ -85,7 +85,7 @@ const AvailableItems = () => {
                             <div >
                                 <div className=' grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-4'>
                                     <div>
-                                        <button onClick={chooseForMe} className='btn '> Choose for me </button>
+                                        <button onClick={chooseForMe} className='btn '> Choose 1 for me </button>
                                     </div>
                                     <div>
                                         <button onClick={chooseAgain} className='btn '> choose again </button>
